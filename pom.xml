@@ -42,12 +42,6 @@
             <scope>runtime</scope>
         </dependency>
 
-        <!-- util -->
-        <dependency>
-            <groupId>org.apache.commons</groupId>
-            <artifactId>commons-lang3</artifactId>
-        </dependency>
-
         <!-- db -->
         <dependency>
             <groupId>org.mybatis.spring.boot</groupId>
